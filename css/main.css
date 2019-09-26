@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: lime;
+    
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    
+    }
+    
+    body {
+        display:flex;
+        width: 60%;
+        margin: 0 auto;
+        font-family: 'Share Tech Mono', monospace;
+    
+    } 
+    
+    nav {
+        width: 20%;
+    }
+    ul {
+        
+        
+    }
+    
+    .book {
+        width: 80%;
+    }
+    
+    .chapter
+    {
+        background-color: black
+    }
+    
+
+
+
